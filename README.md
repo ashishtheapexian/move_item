@@ -14,9 +14,9 @@ Move item plugin can help to move item to navigation menu, navigation bar and Ap
 <li><b>Define Item position where you want to move</b></li>
 <li><b>Define Alignment (left, right, top, bottom)</b></li>
 <li><b>Select background Color</b></li>
-<li><b>Execution Optoin: </b>
+<li><b>Execution Option: </b>
       <ul><li><b>Selection Type -</b>  Region </li>
-      <li><b>Execution Optoin: </b> Region - Select the item region</li>
+      <li><b>Region </b>- Select the item region</li>
       </ul></li>
 </ul>
 <br>
