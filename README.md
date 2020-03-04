@@ -11,7 +11,7 @@ Move item plugin can help to move item to navigation menu, navigation bar and Ap
 <li><b>Create a dynamic action onload</b></li>
 <li><b>Add true action</b></li>
 <li><b>Select Item in Settings</b></li>
-<li><b>Define Item position where ou want to move</b></li>
+<li><b>Define Item position where you want to move</b></li>
 <li><b>Define Alignment (left, right, top, bottom)</b></li>
 <li><b>Select background Color</b></li>
 <li><b>Execution Optoin: </b>
