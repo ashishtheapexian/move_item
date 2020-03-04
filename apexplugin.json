@@ -1,7 +1,7 @@
 {
   "name" : "Move item to manu",
   "version" : "1.0",
-  "description" : "Oracle APEX Dynamic action Plugin to menu (bar/menu).",
+  "description" : "Oracle APEX Dynamic action Plugin to menu (bar/menu) Or Application title.",
   "keywords" : ["PlugIn", "Item", "Navigation Menu", "Navigation Bar","Application Title"],
   "homepage" : "https://github.com/ashishtheapexian/move_item",
   "bugs" : {
