@@ -32,6 +32,7 @@ For multi level navigation menu item should not repeat itself on Sub menu level.
 <b>Worklog Logs</b>
 <ul>
   <li>04 March 2020: Initial Creation </li>
+  <li>05 March 2020: Bug Fixed </li>
 </ul>
 
 
