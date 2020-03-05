@@ -1,5 +1,5 @@
 {
-  "name" : "Move item to manu",
+  "name" : "Move item to menu",
   "version" : "1.0",
   "description" : "Oracle APEX Dynamic action Plugin to menu (bar/menu) Or Application title.",
   "keywords" : ["PlugIn", "Item", "Navigation Menu", "Navigation Bar","Application Title"],
