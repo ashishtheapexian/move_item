@@ -21,11 +21,11 @@ Move item plugin can help to move item to navigation menu, navigation bar and Ap
 </ul>
 <br>
 <b>Road map</b>
-<ul>
-  <li>Move Item to navigation Manu</li>
-  <li>Move Item to navigation bar</li>
-  <li>Move Item to Application Title</li>
-</ul>
+
+  - [x] Move Item to navigation Manu
+  - [x] Move Item to navigation bar
+  - [x] Move Item to Application Title
+  
 <b>Known bugs</b>
 <strike>For multi level navigation menu item should not repeat itself on Sub menu level. </strike>
 <br>
