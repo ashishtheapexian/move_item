@@ -27,7 +27,7 @@ Move item plugin can help to move item to navigation menu, navigation bar and Ap
   - [x] Move Item to Application Title
   
 <b>Known bugs</b>
-<strike>For multi level navigation menu item should not repeat itself on Sub menu level. </strike>
+- [x] <strike>For multi level navigation menu item should not repeat itself on Sub menu level. </strike>
 <br>
 <b>Worklog Logs</b>
 <ul>
