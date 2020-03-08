@@ -38,4 +38,4 @@ Move item plugin can help to move item to navigation menu, navigation bar and Ap
 
 <a href="https://apex.oracle.com/pls/apex/f?p=93690:9:715744643044433:::::">Demo</a>
 <br>
-<a href="https://www.ashishsahay.com"><b>Blog</b> for details</a>
+<a href="https://www.ashishsahay.com/2020/03/move-apex-page-item-to-navigation-menu.html"><b>Blog</b> for details</a>
