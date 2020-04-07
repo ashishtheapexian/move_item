@@ -19,9 +19,9 @@
     "url" : "https://github.com/ashishtheapexian/move_item.git"
   },
  "oracle" : {
-    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "versions" : ["11.2.0.1", "12.1.0.1", "19 C"],
     "apex" : {
-      "versions" : ["5.0","18.2.0","19.2.0"],
+      "versions" : ["5.0.0.00.31","18.2.0","19.2.0"],
       "plugin" : {
         "internalName" : "ITEM_MOVE_UTILITY",
         "type" : "dynamic action",
